@@ -1,0 +1,1 @@
+["Robin", "Purple", "Straw Hat"]["Nami", "Orange", "Straw Hat"]["Sanji", "Yellow", "Straw Hat"]
